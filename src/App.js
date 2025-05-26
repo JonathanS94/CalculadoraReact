@@ -33,7 +33,7 @@ function App() {
             <Boton>9</Boton>
             <Boton>x</Boton>
           </div>
-          <div clasName="fila">
+          <div className="fila">
             <Boton>=</Boton>
             <Boton>0</Boton>
             <Boton>.</Boton>
